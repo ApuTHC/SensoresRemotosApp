@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "164081130978",
+    "firebase_url": "https://sensores-remotos-default-rtdb.firebaseio.com",
+    "project_id": "sensores-remotos",
+    "storage_bucket": "sensores-remotos.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:164081130978:android:08fea6ac16dc019788adbb",
+        "android_client_info": {
+          "package_name": "com.example.sensoresremotosapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "164081130978-73roe6nbmv1atdhp1d1anbaoomighib5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sensoresremotosapp",
+            "certificate_hash": "c74d6f811d288b7af51bb6cb40ef1d798c271246"
+          }
+        },
+        {
+          "client_id": "164081130978-jiutuu4949pp4335cpgmcd7p25fbfbvv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTym8M98_S_NhRMJ8Epn4nytHtv0aZR_E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "164081130978-jiutuu4949pp4335cpgmcd7p25fbfbvv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
